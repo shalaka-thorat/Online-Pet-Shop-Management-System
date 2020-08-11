@@ -29,3 +29,5 @@ In this module, there are links for filling Cat Adoption and Dog Adoption Forms 
 It displays a menu showing different items for shopping, values of which are retrieved from database. It shows items which are out of stock in grey field. There are 2 forms, one for placing an order where user has to enter item codes and quantity, and another for confirming order where order summary is shown and user has to enter address and mobile number and confirm the order. Then a thank you page will be shown.
 
 For more information, click <a href="Project Report.pdf">HERE</a>.
+
+<img src="sign-up.png"></img>
