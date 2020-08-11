@@ -1,0 +1,123 @@
+body {
+	margin: 0;
+	width: 100%;
+	height: 100vh;
+	font-family: "Exo", sans-serif;
+	color: #fff;
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradientBG 15s ease infinite;
+}
+
+.nav{
+  margin-top: 20px;
+}
+
+.nav h1{
+    margin: 0;  
+    color:#fff;
+    text-align:left;
+}
+
+.nav ul{ 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: ;
+}
+
+.nav li{
+    font-family: 'Nunito', sans-serif;
+      font-size:18px;
+    float:left;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  color: black;
+}
+
+@keyframes gradientBG {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.container {
+	width: 100%;
+	position: absolute;
+	margin-top: 15px;
+	text-align: center;
+}
+
+h1 {
+	font-weight: 300;
+}
+
+h3 {
+	color: #eee;
+	font-weight: 100;
+}
+
+h5 {
+	color:#eee;
+	font-weight:300;
+}
+
+#dog{
+	border-radius: 20px;
+    letter-spacing: 2px;
+    color:white;
+    font-family: 'Permanent Marker',cursive; 
+    font-size:20px;
+    left:35%;
+    padding: 10px;
+}
+
+#gmail{
+	border-radius: 20px;
+    letter-spacing: 2px;
+    color:white;
+    font-size:20px;
+    left:35%;
+    padding: 10px;
+}
+
+#cat{
+	border-radius: 20px;
+    color:white;
+    letter-spacing: 2px;
+    font-family: 'Permanent Marker',cursive; 
+    font-size:20px;
+    right:35%;
+    padding: 10px;
+}
+
+#dog:hover{
+	text-decoration: none;
+	color: black;
+}
+
+#cat:hover{
+	text-decoration: none;
+	color: black;
+}
+
+#gmail:hover{
+	text-decoration: none;
+	color: black;
+}
