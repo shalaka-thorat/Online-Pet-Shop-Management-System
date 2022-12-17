@@ -31,3 +31,23 @@ It displays a menu showing different items for shopping, values of which are ret
 For more information, click <a href="Project Report.pdf">HERE</a>.
 
 <img src="sign-up.png"></img>
+
+
+
+<h5>--------------------------------------------------------------------------------------------</h5>
+<h3>How to Run the Project and access the website</h3>
+
+You will have to install xampp software, please try following these steps:
+
+<ol type="1">
+<li>Use apache server and mysql from the xampp the software. Turn these 2 ON from the xampp control panel.
+<br>
+<li>After that go to the URL: http://localhost/phpmyadmin/, here you can import the SQL File in order to make the db and table configurations.
+<br>
+<li>Now wherever you have installed xampp, like for example for me it is C drive so path: C:\xampp. In that, go to htdocs folder.
+<br>
+<li>Create a folder for example: pet-pash and paste all the files from the repository. Additionally, you will have to unzip PHPMailer_5.2.4.zip so that the send mail functionality will work properly.
+<br>
+<li>Now you're all set to run the website. So go to URL: http://localhost/pet-pash/ (Note: 'pet-pash' should the same name as the folder you have created in Step 4).
+(Additional Info: website will always show index.php page first, so whatever you want to display as your home/index page should be included in index.php)
+</ol>
