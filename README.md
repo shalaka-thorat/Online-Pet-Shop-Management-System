@@ -34,8 +34,8 @@ For more information, click <a href="Project Report.pdf">HERE</a>.
 
 
 
-<h5>--------------------------------------------------------------------------------------------</h5>
-<h3>How to Run the Project and access the website</h3>
+<h5>---------------------------------------------------------------------------------------------------------------------</h5>
+<h3>How to run the Project and Access the Website:</h3>
 
 You will have to install xampp software, please try following these steps:
 
