@@ -10,22 +10,22 @@ The user must first create an account and login before accessing these modules. 
 
 ##	Framework of the proposed work in project
 
-* Creating Required Database and Tables 
+* Creating Required Database and Tables <br>
 Firstly, database with all the tables including proper schema and primary, foreign keys is created.
 
-*	Creating Login/Signup Page
+*	Creating Login/Signup Page<br>
 Next, Login/Signup Page layout is created and proper validation for each element in login/signup form is made using PHP.
 
-*	Creating Home Page of Website
+*	Creating Home Page of Website<br>
 A detailed design of the homepage is created with application of CSS and HTML and various modules were linked to it.
 
-*	Creating Vet-Appointment Module
+*	Creating Vet-Appointment Module<br>
 A proper PHP validated form for every input field was made and thank you page when appointment is scheduled is created.
 
-*	Creating Adoption Module
+*	Creating Adoption Module<br>
 In this module, there are links for filling Cat Adoption and Dog Adoption Forms made with PHP validation. And another link is there which shows pets available for adoption in which values are retrieved from database and displayed in table format.
 
-*	Creating PawCart Module
+*	Creating PawCart Module<br>
 It displays a menu showing different items for shopping, values of which are retrieved from database. It shows items which are out of stock in grey field. There are 2 forms, one for placing an order where user has to enter item codes and quantity, and another for confirming order where order summary is shown and user has to enter address and mobile number and confirm the order. Then a thank you page will be shown.
 
 For more information, click <a href="Project Report.pdf">HERE</a>.
