@@ -2,10 +2,10 @@
 
 ##	Problem Statement
 
-Design an Online Pet Shop Management System which will have 3 modules described as follows:<br>
-a)	Vet Appointment:  which will schedule vet-appointments for pets and store the entries in the table called 'appointment'.<br>
-b)	Adoption: in which users will be able to see pets available for adoption (information retrieved from database called 'avpets') and which will allow users to fill the cat/dog form and these requests will be stored in a different table called 'adopt' .<br>
-c)	Paw Cart: which will display menu of food items, toys and pet treats available for shopping. This information will be retrieved from a table called 'foodtoys'. When user places an order, then that entry must be made in database called 'orders' and listing of individual items in the order will be mapped according to order number in table called 'orderitems'.<br>
+Design an Online Pet Shop Management System which will have 3 modules described as follows:<br><br>
+a)	Vet Appointment:  which will schedule vet-appointments for pets and store the entries in the table called 'appointment'.<br><br>
+b)	Adoption: in which users will be able to see pets available for adoption (information retrieved from database called 'avpets') and which will allow users to fill the cat/dog form and these requests will be stored in a different table called 'adopt' .<br><br>
+c)	Paw Cart: which will display menu of food items, toys and pet treats available for shopping. This information will be retrieved from a table called 'foodtoys'. When user places an order, then that entry must be made in database called 'orders' and listing of individual items in the order will be mapped according to order number in table called 'orderitems'.<br><br>
 The user must first create an account and login before accessing these modules. The information related to user accounts will be stored in table called 'user'.
 
 ##	Framework of the proposed work in project
